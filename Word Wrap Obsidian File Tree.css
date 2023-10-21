@@ -1,0 +1,4 @@
+.nav-file-title-content, .nav-folder-title-content{
+  white-space: normal;
+  text-overflow: unset;
+}
